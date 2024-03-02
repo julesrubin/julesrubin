@@ -10,7 +10,7 @@ Over the years, I have cultivated my skills and knowledge in various areas, incl
 <h2>Connect with me </h3>
 <p>
     <a href="https://linkedin.com/in/jules-rubin"><img src="https://img.shields.io/badge/Jules%20Rubin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/jules-rubin" alt="LinkedIn Badge"></a>
-  <a href= "https://www.julesrubin.com"><img src="https://img.shields.io/badge/visit-my website-blue" alt="My Website badge"></a>
+  <a href= "https://www.julesrubin.com"><img src="https://img.shields.io/badge/visit-my website-blue" alt="My Website badge" target='blank'></a>
 </p>
 
  <!-- Conecct section: END -->
