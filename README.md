@@ -18,17 +18,12 @@ Over the years, I have cultivated my skills and knowledge in various areas, incl
   <!-- GitHub section -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julesrubin" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julesrubin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
-
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julesrubin&show_icons=true" />
-</details>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=julesrubin&theme=dracula"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julesrubin&show_icons=true&theme=dracula" />
+</a>
 
 <!-- GitHub section: END -->
 
